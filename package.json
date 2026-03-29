@@ -1,6 +1,6 @@
 {
   "name": "@daytonajs/say",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Speaks text in background when using nodemon and saving source files",
   "main": "index.js",
   "scripts": {
