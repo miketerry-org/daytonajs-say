@@ -1,0 +1,21 @@
+{
+  "name": "@daytonajs/say",
+  "version": "0.0.1",
+  "description": "Speaks text in background when using nodemon and saving source files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "say",
+    "speak",
+    "process",
+    "events"
+  ],
+  "author": "Mike Terry",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "say": "^0.16.0"
+  }
+}
